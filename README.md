@@ -6,6 +6,7 @@ This Code Refactor Repository was created to make Horiseon's webpage follow acce
 
 ## Usage 
 
-[alt](./assets/images/Screenshot-Horiseon-Webpage.png)
+[Screenshot of Deployed Application](./assets/images/Screenshot-Horiseon-Webpage.png)
 
-The following is a link to the deployed application: https://emberjoy.github.io/horiseon-code-refactor-/#social-media-marketing
+The following is a link to the deployed application: 
+https://emberjoy.github.io/horiseon-code-refactor-/#social-media-marketing
